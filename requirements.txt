@@ -1,0 +1,14 @@
+streamlit
+deep-translator
+pillow
+pytesseract
+opencv-python
+numpy
+sounddevice
+SpeechRecognition
+gTTS
+pydub
+python-docx
+certifi
+requests
+streamlit-lottie
