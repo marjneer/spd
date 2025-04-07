@@ -124,7 +124,6 @@ def handle_image_translation(source_lang, target_lang):
         st.error("Please provide an image for translation.")
 
 def translate_document(file, target_language, api_token):
-    # api_token = 'APY0GKVJO4kr1XVx7yS09b8DOPQiAIuHKxOfkhMQ1skwzdIRAnGPs2h1mlklO9QklydN'
     url = 'https://api.apyhub.com/translate/file'
     
     headers = {'apy-token': api_token}
